@@ -57,3 +57,12 @@
 [![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=red&labelColor=white)](https://github.com/Bangsat-XD)
 [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/Bangsat_XD)
 [![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/bangsat_xd)
+
+</h1>
+<h4 align="center">
+ •®• <b>REPORT BUG •®•
+</h1>
+<h4 align="center">
+
+[![Youtube](https://img.shields.io/badge/Youtube-Report-green?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UCeha3A70FKR-YqGT5oY-7nQ)
+
