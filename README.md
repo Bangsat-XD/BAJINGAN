@@ -7,6 +7,9 @@
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangsat-XD&layout=compact&theme=chartreuse-dark">
 </p>
 
+[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Bangsat-XD&repo=IBLIZ&theme=chartreuse-dark)](https://github.com/Bangsat-XD/IBLIZ)
+
+
 ### •®• <b>REPORT BUG
 
 
