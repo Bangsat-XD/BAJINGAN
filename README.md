@@ -50,16 +50,10 @@
 
 </h1>
 <h4 align="center">
- •®• <b>REPORT BUG •®•
+ •®• <b>MY SOCIAL MEDIA •®•
 </h1>
 <h4 align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-Report-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/bangsat_XD)
-</h1>
-<h4 align="center">
-
-[![Youtube](https://img.shields.io/badge/Youtube-Report-green?style=for-the-badge&logo=Youtube)](https://youtube.com/channel/UCeha3A70FKR-YqGT5oY-7nQ)
-</h1>
-<h4 align="center">
-
-[![Github](https://img.shields.io/badge/Github-Report-green?style=for-the-badge&logo=Github)](https://github.com/Bangsat-XD)
+[![](https://img.shields.io/badge/Github-red?logo=Github&logoColor=red&labelColor=white)](https://github.com/Bangsat-XD)
+[![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/Bangsat_XD)
+[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/bangsat_xd)
