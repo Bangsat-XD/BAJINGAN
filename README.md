@@ -1,6 +1,6 @@
 </h1>
 <h4 align="center">
- •®• <b>HELLO PROGRAMERS!<b> <a href="https://www.twitter.com/Bangsat_XD" target="blank">☆ Raka ☆™︻®╤───────═◍➤</a> •®• Was Here •®•
+ •®• <b>HELLO PROGRAMERS!<b> <a href="https://www.twitter.com/Bangsat_XD" target="blank">☆ Raka ☆™︻®╤───────═◍➤</a> •®• <b>Was Here •®•
 </h1>
   <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=Bangsat-XD&show_icons=true&theme=chartreuse-dark&locale=id">
