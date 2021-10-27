@@ -1,4 +1,4 @@
-- 👨🏽‍💻 •®• <b>HELLO PROGRAMERS! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+- 👨🏽‍💻 •®• <b>HELLO PROGRAMERS I AM! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <b> <a href="https://www.twitter.com/Bangsat_XD" target="blank">☆ Raka ☆™︻®╤───────═◍➤</a>
 &nbsp;
