@@ -25,6 +25,8 @@
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Bangsat-XD&repo=IBLIZ&theme=chartreuse-dark)](https://github.com/Bangsat-XD/IBLIZ)
 
 [![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Bangsat-XD&repo=SETAN&theme=chartreuse-dark)](https://github.com/Bangsat-XD/SETAN)
+
+[![ReadmeCard](https://github-readme-stats.vercel.app/api/pin/?username=Bangsat-XD&repo=JURIG&theme=chartreuse-dark)](https://github.com/Bangsat-XD/JURIG)
   
 </h1>
 <h4 align="center">
